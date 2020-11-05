@@ -1,6 +1,6 @@
-#A Node.js P2P Network
+# A Node.js P2P Network
 
-##Starting a seed
+## Starting a seed
 One or several seed servers are required to bootstrap the network. To start a seed server listening 6785:   
 ```javascript
 var Seed = require('n2n').Seed;
